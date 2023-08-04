@@ -1,0 +1,8 @@
+@media only screen and (max-device-width: 900px) {
+    .areas {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        align-items: stretch;
+        margin: 5px;
+    }
+    }
